@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fnazarios/Developer/Runna/apollo-ios/artifacts/DerivedData-watchsimulator/Build/Intermediates.noindex/ArchiveIntermediates/ApolloAPI/InstallationBuildProductsLocation/usr/local/lib/ApolloAPI.framework/ApolloAPI'
+relocations:     []
+...
